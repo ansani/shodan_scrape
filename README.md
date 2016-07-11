@@ -20,17 +20,20 @@ Usage:
 ```
 
  
-## Q/A
+## Q&A
  
-Q: Will my credit be touched for use your script ?
-A: Absolutely NOT! You can use this script how many time you want and your credit (query and download credit) will left intact.
+**Q**: Will my credit be touched for use your script ?
+
+**A**: Absolutely NOT! You can use this script how many time you want and your credit (query and download credit) will left intact.
 
 
-Q: Will Shodan.io ban my account for using your script ?
-A: I really don't know. Maybe yes, maybe not.
+**Q**: Will Shodan.io ban my account for using your script ?
 
-Q: Why you wasted your time realizing this piece of sh*t ?
-A: Because I really need some piece of sh*t like this :)
+**A**: I really don't know. Maybe yes, maybe not.
+
+**Q**: Why you wasted your time realizing this piece of sh*t ?
+
+**A**: Because I really need some piece of sh*t like this :)
  
 ## Examples
 ```
