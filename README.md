@@ -114,4 +114,4 @@ gem install curb
 
 
 ## Coffee
-All coffee donations can go to salvatore@sansani.it ;)
+All coffee donations can go to salvatore@ansani.it ;)
