@@ -29,7 +29,7 @@ Usage:
 
 **Q**: Will Shodan.io ban my account for using your script ?
 
-**A**: I really don't know. Maybe yes, maybe not.
+**A**: Yes! They ban your account if they detect you use this script! Read [here](https://www.reddit.com/r/IOT/comments/4shtk1/script_how_to_scrape_shodanio/d59d6pa)
 
 **Q**: Why you wasted your time realizing this piece of sh*t ?
 
