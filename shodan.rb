@@ -15,8 +15,7 @@ def scrape_shodan(search_query,filename, debug)
 	page = 1
 	stop = false
 	url = url+ URI::encode_www_form_component(search_query)
-	FileUtils.rm(filename)
-
+	FileUtils.rm(filename) if File.exist?(filename)
 
 	while not stop  do
 
@@ -24,7 +23,7 @@ def scrape_shodan(search_query,filename, debug)
 			scrape_url = url + "&page=#{page}"
 		else
 			scrape_url = url
-			puts "Scraping Shodan.io for query '#{search_query}'"
+			puts "Scraping Shodan.io for query '#{search_query}' and save results to #{filename}"
 		end
 
 		puts "Processing page ##{page}".yellow
